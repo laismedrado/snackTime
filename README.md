@@ -19,7 +19,7 @@ App de  pedido delivery; </p>
 </BR>
 
 
-**SnackTime** é o último  projeto do  módulo de frontend do curso de web-fullstack da labenu, desenvolvido em equipe e com reprodução de um layout pronto feito pela designer Camila Mizutani. Onde as necessidades, aplicações e ferramentas do desenvolvimento  aproximaram se bastante do mundo real e de problemas que os desenvolvedores enfrentam diariamente; </br>
+**SnackTime** é o último  projeto do  módulo de frontend do curso de web-fullstack da labenu, com reprodução de um layout pronto no figma feito pela designer Camila Mizutani. Onde as necessidades, aplicações e ferramentas do desenvolvimento  aproximaram se bastante do mundo real e de problemas que os desenvolvedores enfrentam diariamente; </br>
 </br>
 
 **- status concluído** ✅
@@ -31,12 +31,9 @@ App de  pedido delivery; </p>
 
 ## 📃 Descrição
 
-App  de serviço  delivery de refeições para smartphones e IOS. Desenvolvido para potencializar e facilitar a ação dos pedidos delivery, oferecendo todo o suporte aos seus usuários, dentro de uma interface prática, segura, funcional e intuitiva;  
+App  de serviço  delivery de refeições desenvolvido para potencializar e facilitar a ação dos pedidos delivery, oferecendo todo o suporte aos seus usuários, dentro de uma interface prática, segura, funcional e intuitiva;  
 </br>
 </br>
-
-
-
 
 
 
